@@ -20,7 +20,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-coming Soon 
+[Click here](https://bookstores-tchilo.netlify.app/) 
 
 ## Getting Started
 
