@@ -52,19 +52,6 @@ export const removeBook = (bookId) => async (dispatch) => {
 
 // REDUCER
 
-// const reducer = (state = [], action) => {
-//   switch (action.type) {
-//     case ADD_BOOK:
-//     case GET_BOOKS:
-//       return [...state, action.payload];
-
-//     case REMOVE_BOOK:
-//       return state.filter((book) => book.id !== action.payload);
-//     default:
-//       return state;
-//   }
-// };
-
 const reducer = (state = [], action) => {
   switch (action.type) {
     case ADD_BOOK:
