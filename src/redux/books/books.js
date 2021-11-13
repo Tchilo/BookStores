@@ -1,4 +1,3 @@
-/* eslint-disable no-case-declarations */
 import * as api from '../../api/api';
 import '../../styles/book.css';
 
