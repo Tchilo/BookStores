@@ -4,7 +4,8 @@
 
 > BookStore is project built using React and redux.
 
-
+# Home Page 
+![](bookstore.png)
 Additional description about the project and its features.
 
 # Built With
